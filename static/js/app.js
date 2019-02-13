@@ -70,8 +70,8 @@ function buildCharts(sample) {
       }];
       
       var layout = {
-        height: 500,
-        width: 600
+        height: 510,
+        width: 500
       };
       
       Plotly.newPlot('pie', data, layout);
