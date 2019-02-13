@@ -5,7 +5,7 @@
 
 This project is to build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
-## Step 1 - Plotly.js
+## Part 1 - Plotly.js
 
 Use Plotly.js to build interactive charts for your dashboard.
 
@@ -41,7 +41,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 * Update all of the plots any time that a new sample is selected.
 
 
-## Step 2 - Heroku
+## Part 2 - Heroku
 
 Deploy this Flask app to Heroku. <https://belly-button-biodiversity-tj.herokuapp.com>
 
