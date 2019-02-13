@@ -1,7 +1,7 @@
 # Web Visualization Flask Full Stack Application
 ## Belly Button Biodiversity <https://belly-button-biodiversity-tj.herokuapp.com>
 
-![Bacteria by filterforge.com](https://images.unsplash.com/photo-1504838986326-0f4d3ce9cf63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+![Bacteria by filterforge.com](http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg)
 
 This project is to build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
